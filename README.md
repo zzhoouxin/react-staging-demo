@@ -1,9 +1,9 @@
-# REACT-STAGING-DEMO
-react+react-router+antd-mobile+webpack+es6+less的学习demo
+# react-staging-demo
+新手学习react入门的小demo
+
 
 ## 技术支持
-- 前端：`React`、`Express`、`React Router`
-- 服务器端：`Node`
+- 前端：`React`、`antd-mobile`、`React Router`、`React Router`、`webpack`、`es6`、`less`
 
 
 ## 运行步骤
