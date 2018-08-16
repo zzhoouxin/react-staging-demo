@@ -1,5 +1,5 @@
-# ReactNodeDemo
-react+antd+webpack+es6的学习demo
+# REACT-STAGING-DEMO
+react+react-router+antd-mobile+webpack+es6+less的学习demo
 
 ## 技术支持
 - 前端：`React`、`Express`、`React Router`
@@ -9,8 +9,8 @@ react+antd+webpack+es6的学习demo
 ## 运行步骤
 1. `npm install`  ——下载依赖
 2. `npm run build` ——编译js
-3. `npm run server`  ——启动服务指向index.html
-4. `node app.js` ——启动node服务，并连接数据库
+3. `npm run server`  ——启动服务指向index.html-自动打开页面
+
 
 
 ## 项目目录结构
