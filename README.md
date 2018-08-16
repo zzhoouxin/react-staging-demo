@@ -1,10 +1,10 @@
 # ReactNodeDemo
-一款吐槽的h5应用
+react+antd+webpack+es6的学习demo
 
 ## 技术支持
 - 前端：`React`、`Express`、`React Router`
 - 服务器端：`Node`
-- 数据库： `MySQL`
+
 
 ## 运行步骤
 1. `npm install`  ——下载依赖
@@ -24,11 +24,7 @@
         |__ main.js //js入口
     |
     |__ build   //编译后的js文件
-    |
-    |__ database //数据库相关
-        |__ index.js //连接mysql数据库
-        |__ token.js //Toekn的生成、校验
-    |    
+     
     |__ node_modules 依赖
     |
     |__ router 路由
