@@ -1,5 +1,5 @@
 # react-staging-demo
-新手学习react入门的小demo
+新手学习react入门 基础配置项demo
 
 
 ## 技术支持
