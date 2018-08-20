@@ -1,5 +1,5 @@
 # react-staging-demo
-新手学习react入门 基础配置项demo
+新手学习react入门 基础配置项demo ,demo注释标注每个模块的作用
 
 
 ## 技术支持
